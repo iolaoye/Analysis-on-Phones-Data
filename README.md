@@ -1,5 +1,5 @@
 
-# Little play with Phones Data
+# Little play with phones data
 
 
 This short project explores a set a mobile phone data and provides answers to some business questions
