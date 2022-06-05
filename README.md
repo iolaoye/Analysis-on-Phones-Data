@@ -31,4 +31,4 @@ Please adhere to this project's `code of conduct`.
 ## Documentation
 
 [Data Source](https://www.kaggle.com/code/sadeghjalalian/best-selling-mobile-phones-plotly/data)
-
+Blog post link: https://medium.com/@israelo/trends-in-mobile-phone-sales-254eee125483
