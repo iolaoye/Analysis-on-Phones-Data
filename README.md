@@ -41,4 +41,4 @@ Check out the questions file, the codes, and the result visualization file
 
 [Data Source](https://www.kaggle.com/code/sadeghjalalian/best-selling-mobile-phones-plotly/data)
 
-[Blogpost](https://medium.com/@israelo/trends-in-mobile-phone-sales-254eee125483)
+[Blog post](https://medium.com/@israelo/trends-in-mobile-phone-sales-254eee125483)
